@@ -5,3 +5,4 @@ and then will be push to github.edit by seasunfan!
 I'm fanhaixu,I modified this file.
 update 2.
 我是最好看的人，测试 git pull.
+I'm outgroup,I have resolve your problem!
